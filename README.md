@@ -1,10 +1,10 @@
-## Hey, Hey, my name's Artie
+## Hey, hey, my name's Artie
 
- I'm a low-level software engineer at **Canonical** and a recovering physicist...
+ I'm a low-level software engineer at [Canonical](https://canonical.com/), creators of [Ubuntu](https://ubuntu.com/) and a recovering physicist...
 
 ### 🎓 Background 
 
-I hold a PhD in spintronics (🧲🌀⚡) and magnetooptics (🧲🔬) , with a focus on the antiferromagnetic material CuMnAs.
+I did a PhD in spintronics (🧲🌀⚡) and magnetooptics (🧲🔬) , with a focus on the antiferromagnetic material CuMnAs.
 
 Thesis title: *New Characterisation Techniques for Thin Film Antiferromagnetic Materials*
 
@@ -21,7 +21,7 @@ A multi-architecture bootloader written in [Zig](https://ziglang.org/) (0.16.2).
 
 ### 🛠️ Day Job
 
-At **Canonical**, creators of Ubuntu, I work as a low-level engineer, which means I spend my days close to the metal — firmware, kernels, packaging and image creation.
+At [Canonical](https://canonical.com/), I work as a low-level engineer, which means I spend my days close to the metal; fixing things like kernel drivers, graphics stack bugs, packaging errors and bootflow issues.
 
 #### [FPGAd](https://github.com/canonical/FPGAd)
 A [Rust](https://rust-lang.org/) project for Canonical, necessary for runtime configuration of FPGA devices in [Ubuntu Core](https://ubuntu.com/core).
