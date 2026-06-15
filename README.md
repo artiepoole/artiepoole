@@ -4,11 +4,11 @@
 
 ### 🎓 Background 
 
-I hold a PhD in spintronics (🧲🌀⚡) and magnetooptics (🧲🔬) , with a focus on the antiferromagnetic material CuMnAs. My research explored these materials with the ambition to unlock the next generation of computing devices, especially storage devices, with theoretical capabilities for 1000x faster switching dynamics (higher clock speeds) and 100x lower switching energies (more efficient).
+I hold a PhD in spintronics (🧲🌀⚡) and magnetooptics (🧲🔬) , with a focus on the antiferromagnetic material CuMnAs.
 
 Thesis title: *New Characterisation Techniques for Thin Film Antiferromagnetic Materials*
 
-For this research, I wrote Python and C++ code to do experiment automation/equipment control, GUIs for data/image processing and magnetic simulation works.
+For this research, I wrote Python and C++ code to do experiment automation/equipment control, [GUIs](https://github.com/artiepoole/SpintronicsMOKE) for data/image processing and magnetic simulation works.
 
 ### ⚙️ Current Projects
 
@@ -26,16 +26,6 @@ At **Canonical**, creators of Ubuntu, I work as a low-level engineer, which mean
 #### [FPGAd](https://github.com/canonical/FPGAd)
 A [Rust](https://rust-lang.org/) project for Canonical, necessary for runtime configuration of FPGA devices in [Ubuntu Core](https://ubuntu.com/core).
 
-
-### 🧑‍🔬 Past projects
-
-#### [Spintronics MagnetoOptic Kerr Effect](https://github.com/artiepoole/SpintronicsMOKE) Microscope control software
-
-A Python + C++ real-time image processing GUI for various magnetooptical imaging modes, including polarisation-difference imaging whereby the light is swapped between two states, and the magnetic field and the camera measurements are syncrhonised with these flashes, such that the difference between the two images reveals magnetic state information in the contrast. 
-
-The GUI contains more than 100 elements (which appear and disappear based on modes), which controls multiple threads and calls imaging functions not available for images with over 8 bits per pixel images in OpenCV.
-
-
 ### Other bits
 
 #### 😄 Pronouns
@@ -43,15 +33,8 @@ He but not Him, because I could never be Him.
 
 #### 🧗 Other Hobbies
 
-- Climbing -- indoor bouldering @ ~V8/7B(+) and outdoor sport -- slab @~V4, but that's not real climbing.
-- Backpacking (at least buying all the gear)
-- Coffee (pourover)
-- electronics (hobby, or perhaps intermediate)
-- Woodwork (hand tool only and/or furniture)
-- CAD (Inventor until I lost my academic license and now anything free and web based)
-- Gaming (esp. roguelites and VR)
-- Music (watching and listening, not playing)
-- Lamps
+- Rock Climbing
+- Making (Electronics/Woodwork/CAD)
 
 #### 💬 Ask me about
 
