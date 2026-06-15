@@ -14,6 +14,9 @@ My hobby **x86_32 operating system** written in C-style C++. ArtOS is a from-scr
 #### [Artinitium](https://github.com/artiepoole/Artinitium)
 A **multi-architecture bootloader** written in [Zig](https://ziglang.org/) (0.16.2). Artinitium aims to provide a clean, portable boot stage across multiple hardware targets.
 
+#### [FPGAd](https://github.com/canonical/FPGAd)
+A **Rust** project at Canonical for managing FPGA devices on Ubuntu systems.
+
 ### 🛠️ Day Job
 
 At **Canonical** I work as a low-level engineer, which means I spend my days close to the metal — firmware, kernels, and the software that makes hardware actually work.
@@ -23,3 +26,4 @@ At **Canonical** I work as a low-level engineer, which means I spend my days clo
 - Antiferromagnetic spintronics & CuMnAs
 - OS development from scratch (x86_32, C++, Zig)
 - Low-level Linux and firmware engineering
+- Rust systems programming
